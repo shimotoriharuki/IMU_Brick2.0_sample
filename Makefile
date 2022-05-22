@@ -15,3 +15,4 @@ example_simple.o: example_simple.c
 
 clean: 
 	rm *.o
+	rm example example2
